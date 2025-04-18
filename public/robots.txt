@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://carlo-b-balatero.fun/sitemap.xml
-Host: https://carlo-b-balatero.fun
+Sitemap: http://carlo-b-balatero.fun/sitemap.xml
+Host: carlo-b-balatero.fun
